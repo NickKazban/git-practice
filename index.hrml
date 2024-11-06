@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <title>Моя тестовая страница</title>
+    <p>My firstpractice GIT</p>
+    
   </head>
   <body>
     <img src="images/firefox-icon.png" alt="Моё тестовое изображение" />
